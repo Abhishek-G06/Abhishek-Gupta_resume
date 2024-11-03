@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abhishek Gupta
-- 👀 I’m currently persuing B.Tech in CSE Core from Vellore Institute of Technology  
+- 👀 I completed B.Tech in CSE Core from Vellore Institute of Technology  
 - 🌱 I’m interested in gaming. 
-- I'm Sportsperson.
-- In love with technical world.
+- I'm a Sportsperson.
+- In love with the technical world.
